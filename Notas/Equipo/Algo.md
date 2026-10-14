@@ -1,1 +1,1 @@
-# dedos
+# los dedos de las manos son 5
